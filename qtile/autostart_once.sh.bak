@@ -1,0 +1,5 @@
+# Start picom
+# picom --config ~/.config/picom/picom.conf &
+
+wal -i wallpapers/sunset.jpg &&
+
